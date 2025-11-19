@@ -1,4 +1,3 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 # Hands on Introduction to Linux Commands Shell Scripting
 <div id="badges">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor badge" width="120" height="28"/>
