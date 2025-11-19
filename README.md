@@ -2,6 +2,7 @@
 <div id="badges">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor badge" width="120" height="28"/>
 </div>
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 I have complete all exercises and project of  "Hands on Introduction to Linux Course for IBM Specialization"
 
