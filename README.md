@@ -1,6 +1,6 @@
 # Hands on Introduction to Linux Commands Shell Scripting
 <div id="badges">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" alt="Visitor badge" width="120" height="28"/>
+  <img src="https://komarev.com/ghpvc/?username=ataulmohin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohin900" alt="Visitor badge" width="120" height="28"/>
 </div>
 
 I have complete all exercises and project of  "Hands on Introduction to Linux Course for IBM Specialization"
