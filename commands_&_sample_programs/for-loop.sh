@@ -1,5 +1,3 @@
-# Author : ataulmohsin
-
 for ((i=0; i<10; i++))
 do
     echo val : $i

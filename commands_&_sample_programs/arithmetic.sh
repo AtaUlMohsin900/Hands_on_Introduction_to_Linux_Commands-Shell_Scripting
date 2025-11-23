@@ -1,4 +1,3 @@
-# Author : ataulmohsin
 # arithmetic : +,-,*,/,%
 #syntax : $((arithmetic))
 

@@ -1,4 +1,3 @@
-# Author : ataulmohsin
 # tar to compress archive or extract file or folder
 tar -cf file.tar fold/test.txt # create tar file of text file
 tar -cf file.tar fold # create tar file of folder

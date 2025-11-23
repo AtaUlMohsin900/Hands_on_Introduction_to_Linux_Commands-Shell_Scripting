@@ -1,4 +1,3 @@
-# Author : ataulmohsin
 # . : Current Directory
 # .. : Parent Directory
 # ~ : Home Directory

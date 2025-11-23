@@ -1,4 +1,3 @@
-# Author : ataulmohsin
 # date     : date and Time [Mon Dec 11 12:49:26 CET 2023]
 # date +%a : weekday [Mon, Sun, Fri]
 # date +%A : weekday [Monday, Sunday, Friday]

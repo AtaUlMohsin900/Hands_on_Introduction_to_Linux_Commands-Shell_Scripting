@@ -1,5 +1,3 @@
-# Author : ataulmohsin
-
 # grep is used to get matching lines
 # -n : Along with the matching lines, also print the line numbers
 # -c : Get the count of matching lines

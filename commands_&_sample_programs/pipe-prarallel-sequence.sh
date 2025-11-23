@@ -1,5 +1,3 @@
-# Author : ataulmohsin
-
 # run command piping  [command] | [command] | ......
 sort alphabit.txt | uniq 
 sort alphabit.txt | uniq | tr "[a-z]" "[A-Z]" # tr for replace characters.

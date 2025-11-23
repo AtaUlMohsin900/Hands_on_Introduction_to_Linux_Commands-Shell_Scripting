@@ -1,4 +1,3 @@
-# Author : ataulmohsin
 # Input/Output redirection :
 # 
 # >   : Redirect output to file, overwrite

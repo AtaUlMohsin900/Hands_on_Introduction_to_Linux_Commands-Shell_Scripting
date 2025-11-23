@@ -1,4 +1,3 @@
-# Author : ataulmohsin
 # sort for sort data
 echo "Sort Forward: "
 sort age.txt

@@ -1,4 +1,3 @@
-# Author : ataulmohsin
 # echo "comment"
 # '#' for comment
 

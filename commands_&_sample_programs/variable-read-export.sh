@@ -1,5 +1,3 @@
-# Author : ataulmohsin
-
 # get bash path location
 which bash
 bashPath=`which bash`

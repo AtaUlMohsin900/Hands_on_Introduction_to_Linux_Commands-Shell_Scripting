@@ -1,4 +1,3 @@
-# Author : ataulmohsin
 # Method-1 :  declare -a Array_name
 # Method-2 :  arr=()
 # Method-3 : array_name=(1 2 "three" $num.......)
