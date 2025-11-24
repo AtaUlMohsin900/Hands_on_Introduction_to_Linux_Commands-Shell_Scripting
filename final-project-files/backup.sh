@@ -15,19 +15,19 @@ then
   exit
 fi
 
-# TASK 1
-targetDirectory=$1
-destinationDirectory=$2
+# [TASK 1]
+targetDirectory=
+destinationDirectory=
 
-# TASK 2
-echo "targetDirectory is $1"
-echo "destinationDirectory is $2"
+# [TASK 2]
+echo ""
+echo ""
 
-# TASK 3
-currentTS=$(date +%s)
+# [TASK 3]
+currentTS=``
 
-# TASK 4
-backupFileName="backup-$currentTS.tar.gz"
+# [TASK 4]
+backupFileName=""
 
 # We're going to:
   # 1: Go into the target directory
@@ -36,37 +36,33 @@ backupFileName="backup-$currentTS.tar.gz"
 
 # To make things easier, we will define some useful variables...
 
- # TASK 5
-origAbsPath=$(pwd)
+# [TASK 5]
+origAbsPath=``
 
- # TASK 6
-cd $destinationDirectory
-destAbsPath=$destinationDirectory
+# [TASK 6]
+cd # <-
+destDirAbsPath=``
 
-# TASK 7
-cd $origAbsPath
-cd $targetDirectory
+# [TASK 7]
+cd # <-
+cd # <-
 
-# TASK 8
-yesterdayTS=$(($currentTS - 24 * 60 * 60))
+# [TASK 8]
+yesterdayTS=
 
 declare -a toBackup
 
-# TASK 9
-for file in $(ls) 
+for file in  # [TASK 9]
 do
-# TASK 10
-  if ((`date -r $file +%s` > $yesterdayTS))
+  # [TASK 10]
+  if (())
   then
-# TASK 11
-    toBackup+=($file)
+    # [TASK 11]
   fi
 done
 
-# TASK 12
-tar -czvf $backupFileName ${toBackup[@]}
+# [TASK 12]
 
-# TASK 13
-mv $backupFileName $destAbsPath
+# [TASK 13]
 
 # Congratulations! You completed the final project for this course!
